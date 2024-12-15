@@ -1,0 +1,45 @@
+Client IP: ('192.168.0.105', 59265)
+Key: ZQC74ELeI3sLQ+fWmoka91ED6HS2Wqm6e6Pcy/ubIV0=
+IV: mh0F9unbGP4eJ6tiHpiCUQ==
+Encrypted Message: 7EiH/PFqIWDwxJi2df17EQ==
+
+Client IP: ('192.168.0.105', 59267)
+Key: 5GAPoerJzcIPkd7sPv2trqymm0M73LbdOsvmtVZph2M=
+IV: AFZQ0x7IhTB2fYVb/2uJ/A==
+Encrypted Message: VwHUpK5iDmvukCNC7vf+gQ==
+
+Client IP: ('192.168.0.105', 59267)
+Key: w0JEmh78H39F5zs3vQOd0zfO1jQWqvE0k0JoszWnU30=
+IV: SXVO3hjnWf7I3TiaU3cOYQ==
+Encrypted Message: +Gio1JTekbQt8BxwjZ0bPQ==
+
+Client IP: ('192.168.0.105', 59265)
+Key: GGSnnWQEnpXJ0rMViqLDWW4B3D5tKqt+l2FD3H3/8CY=
+IV: mwEmYubLrnLr3fiiIeQeJQ==
+Encrypted Message: cLu5p507Nji22Afvc9pH4w==
+
+Client IP: ('192.168.0.105', 63122)
+Key: RMpTJAwE03agExWsRaleCCpoAbKLOC3ZGmNIGM2bha4=
+IV: 45q8qP8LuuZD5e+wGzLYqA==
+Encrypted Message: h7Sq/CyjeZXA2P0FNQBUkw==
+
+Client IP: ('192.168.0.105', 63159)
+Key: hEpo1t4yiD/Mdoo4d1kT75kj3gRkZCKsLt+JZx0oH7o=
+IV: //J8Gl3vkWYcs2ZhhG//Lg==
+Encrypted Message: EaFbMzlyGqcEMwhW4A5l1A==
+
+Client IP: ('192.168.0.105', 63157)
+Key: RW4ubBiaDGaCG9hINW+AXJidc+eBB9CF/5ppLdkoSRc=
+IV: IGYtxb01g1X1vSy9X+R87A==
+Encrypted Message: xaf/2cc08oWAo20H+waIVA==
+
+Client IP: ('127.0.0.1', 55884)
+Key: qTq9mRSO0V5vVSIAASENxsoCTZn6jWKVeaCZpmgi8cE=
+IV: CJCdbLw6fs377FH0MFnRWA==
+Encrypted Message: ZQIZFMWqRQBLIMYiRWOIZA==
+
+Client IP: ('192.168.0.105', 55923)
+Key: vXaYwkd1YLdwQP2uYkMrRNjUFUfXOajHdg/xqOV+oXs=
+IV: C0sGuZvvjEk3i2XxjjTI9A==
+Encrypted Message: SJf4r/C6qKagnxyR9sId6A==
+
